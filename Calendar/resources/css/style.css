@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  padding-top: 2%;
+}
+body {
+  height: 100%;
+  background-color: #f2f2f2;
+}
+
+.event:hover { cursor: pointer; }
+
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
+
+#calendar { height: 100vh !important; }
+
+.custom-container {
+  width: 100%;
+  padding: 20%;
+}
+
+/* Minimal category colors for Part C */
+.event-cat-academic { background: #eaf2ff; }
+.event-cat-work     { background: #fff3e6; }
+.event-cat-personal { background: #f7eaff; }
+.event-cat-other    { background: #eef2f3; }
