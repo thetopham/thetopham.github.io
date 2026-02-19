@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Transparent Outrage Feed Simulator</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Transparent Outrage Feed Simulator</h1>
+    <p class="subtitle">A glass-box social media engine for class discussion.</p>
+  </header>
+
+  <main>
+    <section class="card systems-view">
+      <h2>Systems View</h2>
+
+      <h3>Intro</h3>
+      <p>
+        Engagement-based feeds don’t just show content; they shape what feels urgent, normal, and real.
+        Systems often reward strong emotion (especially anger), in-group identity alignment, and repeated exposure.
+      </p>
+
+      <h3>Background</h3>
+      <ul>
+        <li><strong>Typical system goal:</strong> maximize engagement (watch time, clicks, comments, shares) to support ad revenue and data collection.</li>
+        <li><strong>Key actors:</strong> platform teams, advertisers, creators/influencers, users, moderators/data workers, and regulators.</li>
+        <li><strong>Ranking signals:</strong> predicted interaction, past behavior, network similarity, recency, and emotion/controversy features.</li>
+        <li><strong>Bias-incentive coupling:</strong> negativity bias, affinity bias, and availability heuristic can all be amplified by engagement loops.</li>
+      </ul>
+
+      <h3>Impacts</h3>
+      <ul>
+        <li><strong>Intended:</strong> personalization, speed, and relevance at scale.</li>
+        <li><strong>Unintended:</strong> rage loops, polarization, viewpoint narrowing, and distorted risk perception.</li>
+        <li><strong>Distributional:</strong> creators optimize for outrage; users pay attention and wellbeing costs; communities pay trust costs.</li>
+        <li><strong>Accountability:</strong> opaque and shifting ranking logic makes responsibility hard to assign.</li>
+      </ul>
+
+      <h3>Reflection</h3>
+      <p>
+        This prototype makes the scoring function visible so the feed feels less like reality and more like a designed environment with explicit goals.
+      </p>
+    </section>
+
+    <section class="controls-grid">
+      <section class="card controls">
+        <h2>Interventions</h2>
+        <label>
+          Outrage Throttle
+          <input type="range" min="0" max="1" value="1" step="0.05" id="outrageThrottle" />
+          <span id="outrageThrottleValue">1.00×</span>
+        </label>
+        <label>
+          Diversity Boost
+          <input type="range" min="0" max="2" value="0.4" step="0.05" id="diversityBoost" />
+          <span id="diversityBoostValue">0.40</span>
+        </label>
+        <label>
+          Credibility Weight
+          <input type="range" min="0" max="2" value="1" step="0.05" id="credibilityWeight" />
+          <span id="credibilityWeightValue">1.00</span>
+        </label>
+      </section>
+
+      <section class="card profile">
+        <h2>Live User Profile</h2>
+        <ul>
+          <li>Likes: <strong id="likesCount">0</strong></li>
+          <li>Shares: <strong id="sharesCount">0</strong></li>
+          <li>Total Dwell (sec): <strong id="dwellCount">0</strong></li>
+          <li>Affinity: <strong id="affinityValue">0.50</strong> (0 = climate, 1 = crypto)</li>
+          <li>Outrage Preference: <strong id="outragePrefValue">0.50</strong></li>
+          <li>Source Trust Preference: <strong id="credPrefValue">0.50</strong></li>
+        </ul>
+        <button id="resetProfile" class="secondary">Reset Profile</button>
+      </section>
+    </section>
+
+    <section class="card">
+      <h2>Ranked Feed (20 fake posts)</h2>
+      <p class="hint">Interact with Like / Share / Dwell+5s. Every click updates your profile and instantly re-ranks the feed.</p>
+      <div id="feed" class="feed"></div>
+    </section>
+
+    <section class="card sources">
+      <h2>Sources</h2>
+      <table>
+        <thead>
+          <tr><th>Name of Source</th><th>Type</th><th>Where to Find It</th><th>Facts Used</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>ATLS 2000 lecture: Algorithmic influence (Feb 10, 2026) + Critical algorithmic studies (Feb 12, 2026)</td>
+            <td>Class lecture materials / transcript</td>
+            <td>Course slides + instructor transcripts/notes</td>
+            <td>
+              1) Algorithmic curation ranks and filters content at scale using engagement signals.<br>
+              2) Engagement optimization can amplify negativity and affinity bias.<br>
+              3) Hidden labor and incentive design complicate accountability.
+            </td>
+          </tr>
+          <tr>
+            <td>O’Neil, Cathy. <em>Weapons of Math Destruction</em> (2016)</td>
+            <td>Book (research-informed popular text)</td>
+            <td>Book + public talks/excerpts</td>
+            <td>
+              1) Models embed human choices about goals/metrics/errors.<br>
+              2) Harmful models are often opaque and widespread.<br>
+              3) People affected by scoring systems often cannot inspect or appeal them.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
