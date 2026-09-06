@@ -1,5 +1,5 @@
 %PDF-1.4
-%ASCII ReportLab PDF                               
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
 /F1 2 0 R /F2 3 0 R
@@ -17,59 +17,70 @@ endobj
 endobj
 4 0 obj
 <<
-/Contents 15 0 R /MediaBox [ 0 0 612 792 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/A <<
+/S /URI /Type /Action /URI (mailto:thetopham@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 122.9691 696.56 212.5443 707 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/thetopham)
->> /Border [ 0 0 0 ] /Rect [ 141 265.3 576 277.3 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://thetopham.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 45.6 685.56 122.0121 696 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/Pasta-Devs/Marinara-Engine)
->> /Border [ 0 0 0 ] /Rect [ 141 249.3 576 261.3 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/thetopham)
+>> /Border [ 0 0 0 ] /Rect [ 129.2679 685.56 215.3457 696 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/Pasta-Devs/Marinara-Agents)
->> /Border [ 0 0 0 ] /Rect [ 141 233.3 576 245.3 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/mrtopham)
+>> /Border [ 0 0 0 ] /Rect [ 222.6015 685.56 321.7119 696 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/Pasta-Devs/Marinara-Engine/pulls?q=is%3Apr+author%3Athetopham)
->> /Border [ 0 0 0 ] /Rect [ 141 217.3 576 229.3 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/Pasta-Devs/Marinara-Engine/pull/4840)
+>> /Border [ 0 0 0 ] /Rect [ 103.0224 508.62 170.718 518.7 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://thetopham.github.io)
->> /Border [ 0 0 0 ] /Rect [ 141 201.3 576 213.3 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/Pasta-Devs/Marinara-Engine/pull/3565)
+>> /Border [ 0 0 0 ] /Rect [ 177.7236 508.62 218.3376 518.7 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/mrtopham)
->> /Border [ 0 0 0 ] /Rect [ 141 185.3 576 197.3 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/Pasta-Devs/Marinara-Engine/pull/3693)
+>> /Border [ 0 0 0 ] /Rect [ 225.3432 508.62 276.2304 518.7 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 16 0 R /MediaBox [ 0 0 612 792 ] /Parent 14 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/thetopham/manfred)
+>> /Border [ 0 0 0 ] /Rect [ 45.6 470.3875 203.73 483.3875 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/School-of-the-Ancients)
+>> /Border [ 0 0 0 ] /Rect [ 45.6 300.5875 245.73 313.5875 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 17 0 R /MediaBox [ 0 0 612 792 ] /Parent 16 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -77,404 +88,59 @@ endobj
 >> /Type /Page
 >>
 endobj
-12 0 obj
-<<
-/PageMode /UseNone /Pages 14 0 R /Type /Catalog
->>
-endobj
-13 0 obj
-<<
-/Author (Matthew Topham) /CreationDate (D:20260818041415+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260818041415+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (Matthew Topham - AI Systems Architect & Full-Stack Software Engineer) /Trapped /False
->>
-endobj
 14 0 obj
 <<
-/Count 2 /Kids [ 4 0 R 11 0 R ] /Type /Pages
+/PageMode /UseNone /Pages 16 0 R /Type /Catalog
 >>
 endobj
 15 0 obj
 <<
-/Length 7861
+/Author (Matthew Topham) /CreationDate (D:20260906042705+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260906042705+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Matthew Topham - AI Systems & Full-Stack Developer) /Trapped /False
 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-.090196 .219608 .458824 rg
-BT /F2 28 Tf 33.6 TL ET
-BT 1 0 0 1 36 740 Tm (Matthew Topham) Tj T* ET
-BT /F2 14 Tf 16.8 TL ET
-.141176 .34902 .713725 rg
-BT 1 0 0 1 36 719 Tm (AI Systems Architect & Full-Stack Software Engineer) Tj T* ET
-BT /F1 9 Tf 10.8 TL ET
-.321569 .376471 .470588 rg
-BT 1 0 0 1 36 703 Tm (Boulder, Colorado | \(805\) 729-3307 | thetopham@gmail.com | github.com/thetopham | linkedin.com/in/mrtopham) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 36 686 Tm (I build interactive AI products, persistent world systems, and multimodal pipelines that turn AI roleplay into) Tj T* ET
-BT 1 0 0 1 36 674 Tm (reference-grounded animated scenes. Active Marinara Engine developer with 100+ merged pull requests across) Tj T* ET
-BT 1 0 0 1 36 662 Tm (React/TypeScript, Node.js, capability APIs, transactional state, AI generation, responsive UI, and production validation.) Tj T* ET
-.090196 .219608 .458824 RG
-2 w
-n 36 646 m 576 646 l S
-1 .972549 .905882 rg
-n 36 595 540 37 re f*
-.066667 .094118 .152941 rg
-BT /F2 9.4 Tf 11.28 TL ET
-BT 1 0 0 1 44 618 Tm (Open to opportunities:) Tj T* ET
-BT /F1 9.4 Tf 11.28 TL ET
-BT 1 0 0 1 150.3132 618 Tm (AI engineering, full-stack software, interactive media, and flexible roles) Tj T* ET
-BT 1 0 0 1 44 605 Tm (compatible with completing my computer science degree.) Tj T* ET
-.090196 .219608 .458824 rg
-BT /F2 10.5 Tf 12.6 TL ET
-BT 1 0 0 1 36 578 Tm (TECHNICAL SKILLS) Tj T* ET
-.788235 .843137 .917647 RG
-.8 w
-n 36 571 m 218 571 l S
-.090196 .286275 .721569 rg
-BT /F1 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 36 559 Tm (TypeScript  JavaScript  Python  SQL) Tj T* ET
-.090196 .286275 .721569 rg
-BT /F1 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 36 547 Tm (React  Node.js  React Query  Vite) Tj T* ET
-.090196 .286275 .721569 rg
-BT /F1 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 36 535 Tm (Postgres  REST APIs  WebSockets) Tj T* ET
-.090196 .286275 .721569 rg
-BT /F1 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 36 523 Tm (Docker  GitHub Actions  Playwright) Tj T* ET
-.090196 .286275 .721569 rg
-BT /F1 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 36 511 Tm (Linux  Unity  ComfyUI) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 495 Tm (AI systems: LLM integrations, agent/runtime) Tj T* ET
-BT 1 0 0 1 36 483.7 Tm (architecture, reference-grounded storyboard) Tj T* ET
-BT 1 0 0 1 36 472.4 Tm (orchestration, image-aware motion planning,) Tj T* ET
-BT 1 0 0 1 36 461.1 Tm (ComfyUI/MiniMax H3, local AI.) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 443.8 Tm (Reliability: transactions, idempotency,) Tj T* ET
-BT 1 0 0 1 36 432.5 Tm (revision conflicts, race handling,) Tj T* ET
-BT 1 0 0 1 36 421.2 Tm (snapshots/checkpoints, regression testing.) Tj T* ET
-.090196 .219608 .458824 rg
-BT /F2 10.5 Tf 12.6 TL ET
-BT 1 0 0 1 36 399.9 Tm (EDUCATION) Tj T* ET
-.788235 .843137 .917647 RG
-.8 w
-n 36 392.9 m 218 392.9 l S
-.066667 .094118 .152941 rg
-BT /F2 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 36 380.9 Tm (University of Colorado Boulder) Tj T* ET
-.321569 .376471 .470588 rg
-BT /F1 9 Tf 10.8 TL ET
-BT 1 0 0 1 36 368.9 Tm (B.A. Computer Science - Expected May 2027) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 36 348.9 Tm (Front Range Community College) Tj T* ET
-.321569 .376471 .470588 rg
-BT /F1 9 Tf 10.8 TL ET
-BT 1 0 0 1 36 336.9 Tm (A.S. Computer Science - 2025) Tj T* ET
-.090196 .219608 .458824 rg
-BT /F2 10.5 Tf 12.6 TL ET
-BT 1 0 0 1 36 316.9 Tm (CERTIFICATION) Tj T* ET
-.788235 .843137 .917647 RG
-.8 w
-n 36 309.9 m 218 309.9 l S
-.066667 .094118 .152941 rg
-BT /F2 9.8 Tf 11.76 TL ET
-BT 1 0 0 1 36 297.9 Tm (NVIDIA-Certified Associate) Tj T* ET
-.321569 .376471 .470588 rg
-BT /F1 9 Tf 10.8 TL ET
-BT 1 0 0 1 36 285.9 Tm (AI Infrastructure & Operations - Aug 2025) Tj T* ET
-.090196 .219608 .458824 rg
-BT /F2 10.5 Tf 12.6 TL ET
-BT 1 0 0 1 234 578 Tm (EXPERIENCE) Tj T* ET
-.788235 .843137 .917647 RG
-.8 w
-n 234 571 m 576 571 l S
-.066667 .094118 .152941 rg
-BT /F2 14 Tf 16.8 TL ET
-BT 1 0 0 1 234 559 Tm (Pasta Devs - Marinara Engine) Tj T* ET
-.141176 .34902 .713725 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 234 544 Tm (AI Systems Architect & Open-Source Developer) Tj T* ET
-.321569 .376471 .470588 rg
-BT /F1 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 485.184 559 Tm (Remote | 2026-Present) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.6 Tf 11.52 TL ET
-BT 1 0 0 1 234 526 Tm (Active developer on a local-first AI chat, roleplay, and game engine with) Tj T* ET
-BT 1 0 0 1 234 514.2 Tm (downloadable agents, persistent worlds, multimodal generation, and multiple) Tj T* ET
-BT 1 0 0 1 234 502.4 Tm (model providers.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 234 486.6 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 244 486.6 Tm (Authored 100+ merged pull requests across React/TypeScript UI, Node.js) Tj T* ET
-BT 1 0 0 1 244 475.4 Tm (services, shared contracts, package APIs, transactional persistence, prompts,) Tj T* ET
-BT 1 0 0 1 244 464.2 Tm (documentation, and automated tests.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 234 451 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 244 451 Tm (Shipped an end-to-end Roleplay-to-animation pipeline: completed exchanges) Tj T* ET
-BT 1 0 0 1 244 439.8 Tm (become storyboard episodes; Character Sheets and World Maps artwork ground) Tj T* ET
-BT 1 0 0 1 244 428.6 Tm (people and locations; generated T=0 keyframes feed image-aware motion) Tj T* ET
-BT 1 0 0 1 244 417.4 Tm (planning; local MiniMax H3/ComfyUI renders produced a live-tested multi-shot) Tj T* ET
-BT 1 0 0 1 244 406.2 Tm (clip with synchronized motion and audio.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 234 393 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 244 393 Tm (Architected hierarchical world-state infrastructure with nested locations, graph) Tj T* ET
-BT 1 0 0 1 244 381.8 Tm (validation, bounded prompt context, AI drafting/expansion, lore grounding,) Tj T* ET
-BT 1 0 0 1 244 370.6 Tm (snapshots/checkpoints, revision conflict handling, and responsive map authoring.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 234 357.4 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 244 357.4 Tm (Built reliable movement workflows using atomic owner turns, idempotent) Tj T* ET
-BT 1 0 0 1 244 346.2 Tm (command IDs, server-owned route validation, retry/recovery semantics, and) Tj T* ET
-BT 1 0 0 1 244 335 Tm (stream/persistence sanitization for hidden model directives.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 234 321.8 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 244 321.8 Tm (Extended the downloadable capability runtime with versioned host contracts for) Tj T* ET
-BT 1 0 0 1 244 310.6 Tm (model routing, resources, persistence, transactions, history/checkpoints,) Tj T* ET
-BT 1 0 0 1 244 299.4 Tm (readiness, retries, and package-owned client contributions.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 234 286.2 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 244 286.2 Tm (Validated changes with deterministic regression suites, Playwright browser tests,) Tj T* ET
-BT 1 0 0 1 244 275 Tm (lint/type/build gates, bundle budgets, container checks, and manual) Tj T* ET
-BT 1 0 0 1 244 263.8 Tm (desktop/mobile QA.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 8.6 Tf 10.32 TL ET
-BT 1 0 0 1 234 250.6 Tm (Selected proof:) Tj T* ET
-BT /F1 8.3 Tf 9.96 TL ET
-.141176 .34902 .713725 rg
-BT 1 0 0 1 234 239.6 Tm (Roleplay animation #4840 | Capability API #3693 | World state #3565) Tj T* ET
-BT 1 0 0 1 234 229.6 Tm (Storyboards #4326 | MiniMax H3 prompts \(Marinara Agents #365\)) Tj T* ET
- 
-endstream
 endobj
 16 0 obj
 <<
-/Length 7418
+/Count 1 /Kids [ 13 0 R ] /Type /Pages
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2442
 >>
 stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-.090196 .219608 .458824 rg
-BT /F2 18 Tf 21.6 TL ET
-BT 1 0 0 1 36 747 Tm (Matthew Topham) Tj T* ET
-BT /F1 10 Tf 12 TL ET
-.321569 .376471 .470588 rg
-BT 1 0 0 1 36 732 Tm (AI Systems Architect & Full-Stack Software Engineer) Tj T* ET
-BT 1 0 0 1 477.06 747 Tm (github.com/thetopham) Tj T* ET
-BT 1 0 0 1 488.17 732 Tm (thetopham.github.io) Tj T* ET
-.090196 .219608 .458824 RG
-2 w
-n 36 722 m 576 722 l S
-.090196 .219608 .458824 rg
-BT /F2 10.5 Tf 12.6 TL ET
-BT 1 0 0 1 36 704 Tm (SELECTED PROJECTS) Tj T* ET
-.788235 .843137 .917647 RG
-.8 w
-n 36 697 m 576 697 l S
-.066667 .094118 .152941 rg
-BT /F2 12 Tf 14.4 TL ET
-BT 1 0 0 1 36 685 Tm (School of the Ancients) Tj T* ET
-BT /F2 9.5 Tf 11.4 TL ET
-.321569 .376471 .470588 rg
-BT 1 0 0 1 175 685 Tm (- Creator & Full-Stack Developer) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.7 Tf 11.64 TL ET
-BT 1 0 0 1 36 669 Tm (Voice-driven Socratic learning platform where users converse with AI historical mentors across web and VR experiences.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 657 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 46 657 Tm (Implemented React/Vite interfaces, Node.js and Supabase services, authentication, RLS-backed Postgres, lesson and quest) Tj T* ET
-BT 1 0 0 1 46 645.6 Tm (creation, CI/CD, real-time voice AI, and Unity XR prototypes.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 632.2 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 46 632.2 Tm (Built web and VR interaction paths around conversational AI, educational quests, and persistent user progress.) Tj T* ET
-BT /F2 9 Tf 10.8 TL ET
-BT 1 0 0 1 36 616.8 Tm (Project:) Tj T* ET
-BT /F1 9 Tf 10.8 TL ET
-BT 1 0 0 1 74 616.8 Tm (github.com/School-of-the-Ancients) Tj T* ET
-BT /F2 12 Tf 14.4 TL ET
-.066667 .094118 .152941 rg
-BT 1 0 0 1 36 594.8 Tm (AI Radar) Tj T* ET
-BT /F2 9.5 Tf 11.4 TL ET
-.321569 .376471 .470588 rg
-BT 1 0 0 1 88 594.8 Tm (- Creator) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.7 Tf 11.64 TL ET
-BT 1 0 0 1 36 578.8 Tm (Python and GitHub Actions pipeline that ingests RSS feeds, filters and summarizes AI research/news with LLMs, and) Tj T* ET
-BT 1 0 0 1 36 566.8 Tm (publishes a concise daily brief.) Tj T* ET
-BT /F2 9 Tf 10.8 TL ET
-BT 1 0 0 1 36 554.8 Tm (Repository:) Tj T* ET
-BT /F1 9 Tf 10.8 TL ET
-BT 1 0 0 1 91 554.8 Tm (github.com/thetopham/ai-radar) Tj T* ET
-.090196 .219608 .458824 rg
-BT /F2 10.5 Tf 12.6 TL ET
-BT 1 0 0 1 36 529.8 Tm (ADDITIONAL ENGINEERING) Tj T* ET
-.788235 .843137 .917647 RG
-.8 w
-n 36 522.8 m 576 522.8 l S
-.066667 .094118 .152941 rg
-BT /F1 9.4 Tf 11.28 TL ET
-BT 1 0 0 1 36 510.8 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.4 Tf 11.28 TL ET
-BT 1 0 0 1 46 510.8 Tm (Built modular trading automation with Python, real-time SignalR feeds, API-based order routing, Supabase logging, and) Tj T* ET
-BT 1 0 0 1 46 499.3 Tm (model-assisted analysis.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.4 Tf 11.28 TL ET
-BT 1 0 0 1 36 485.8 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.4 Tf 11.28 TL ET
-BT 1 0 0 1 46 485.8 Tm (Automated Linux/Cosmos infrastructure backups, monitoring, alerting, and failover workflows.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.4 Tf 11.28 TL ET
-BT 1 0 0 1 36 472.3 Tm (-) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F1 9.4 Tf 11.28 TL ET
-BT 1 0 0 1 46 472.3 Tm (Developed local AI workflows spanning LLM serving, ComfyUI image/video generation, prompt pipelines, and GPU-backed) Tj T* ET
-BT 1 0 0 1 46 460.8 Tm (inference.) Tj T* ET
-.090196 .219608 .458824 rg
-BT /F2 10.5 Tf 12.6 TL ET
-BT 1 0 0 1 36 439.3 Tm (SELECTED MARINARA SYSTEMS SHIPPED) Tj T* ET
-.788235 .843137 .917647 RG
-.8 w
-n 36 432.3 m 576 432.3 l S
-.066667 .094118 .152941 rg
-BT /F2 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 420.3 Tm (- Reference-grounded animation:) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 188.6608 420.3 Tm (Character Sheets and World Maps references feed generated first-frame keyframes,) Tj T* ET
-BT 1 0 0 1 188.6608 409 Tm (image-aware shot planning, and local image-to-video rendering.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 394.7 Tm (- Persistent worlds:) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 171 394.7 Tm (Hierarchical locations, stable IDs, validated movement, lore grounding, reusable/shared worlds,) Tj T* ET
-BT 1 0 0 1 171 383.4 Tm (map artwork, route planning, and checkpoint-aware state.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 369.1 Tm (- Capability runtime:) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 171 369.1 Tm (Versioned package contracts and host services for model routing, persistence, transactions,) Tj T* ET
-BT 1 0 0 1 171 357.8 Tm (resources, history, logging, readiness, and client lifecycle.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 343.5 Tm (- Storyboard Agent:) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 171 343.5 Tm (Separate Game/Roleplay planning, provider-neutral prompt stages, editable templates,) Tj T* ET
-BT 1 0 0 1 171 332.2 Tm (image-aware motion refinement, and local MiniMax H3 prompt paths.) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 36 317.9 Tm (- Reliability:) Tj T* ET
-.094118 .133333 .207843 rg
-BT /F1 9.2 Tf 11.04 TL ET
-BT 1 0 0 1 171 317.9 Tm (Deterministic regressions, package lifecycle testing, Playwright desktop/mobile validation, stream) Tj T* ET
-BT 1 0 0 1 171 306.6 Tm (sanitization, conflict handling, retry/recovery, and race-safe persistence.) Tj T* ET
-.090196 .219608 .458824 rg
-BT /F2 10.5 Tf 12.6 TL ET
-BT 1 0 0 1 36 286.3 Tm (LINKS) Tj T* ET
-.788235 .843137 .917647 RG
-.8 w
-n 36 279.3 m 576 279.3 l S
-.066667 .094118 .152941 rg
-BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 36 267.3 Tm (GitHub:) Tj T* ET
-BT /F1 9.2 Tf 11.04 TL ET
-.141176 .34902 .713725 rg
-BT 1 0 0 1 146 267.3 Tm (github.com/thetopham) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 36 251.3 Tm (Marinara Engine:) Tj T* ET
-BT /F1 9.2 Tf 11.04 TL ET
-.141176 .34902 .713725 rg
-BT 1 0 0 1 146 251.3 Tm (github.com/Pasta-Devs/Marinara-Engine) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 36 235.3 Tm (Marinara Agents:) Tj T* ET
-BT /F1 9.2 Tf 11.04 TL ET
-.141176 .34902 .713725 rg
-BT 1 0 0 1 146 235.3 Tm (github.com/Pasta-Devs/Marinara-Agents) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 36 219.3 Tm (Marinara contributions:) Tj T* ET
-BT /F1 9.2 Tf 11.04 TL ET
-.141176 .34902 .713725 rg
-BT 1 0 0 1 146 219.3 Tm (github.com/Pasta-Devs/Marinara-Engine/pulls?author=thetopham) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 36 203.3 Tm (Portfolio:) Tj T* ET
-BT /F1 9.2 Tf 11.04 TL ET
-.141176 .34902 .713725 rg
-BT 1 0 0 1 146 203.3 Tm (thetopham.github.io) Tj T* ET
-.066667 .094118 .152941 rg
-BT /F2 9.5 Tf 11.4 TL ET
-BT 1 0 0 1 36 187.3 Tm (LinkedIn:) Tj T* ET
-BT /F1 9.2 Tf 11.04 TL ET
-.141176 .34902 .713725 rg
-BT 1 0 0 1 146 187.3 Tm (www.linkedin.com/in/mrtopham) Tj T* ET
-.788235 .843137 .917647 RG
-n 36 45 m 576 45 l S
-.321569 .376471 .470588 rg
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 165.504 31 Tm (Matthew Topham - AI Systems Architect & Full-Stack Software Engineer - 2026) Tj T* ET
- 
-endstream
+Gb!#\?$G9t&q-BZ;,92G!\tCEO3GdVN"Zh5'8*W:R$U9WTZ<4!l#+=^J,NDj,CqY0jZ1W>p$k$u1.G9o\#O?%C*21)j4f'Y']=!<(Y:kG!A)j\GJ,U[B/!K&qs0f&pguJWHI*1WpiZMaCCf2!YQpaAK\[er!N=7)1u_S[40VE+AcP,PC^*&.f_CFDZfQO9b'_C\pTXPubO<R#n+cKuB>3i)I;.:DaVn<+&USu)++te^*K%uE0=5/e%5^OQ=?L?9;[qX#FcdrOKji@2>k&h1ABr`s61bB?R3;EfkMku:*'OeD^('-30$q+m71s[lKX"4H@^1TI6*CgMo/!'b;T@_gY>*/-i^M9=G1Hs?i?bqFNA0*rjU(a*>E+ugGHca/>u]rnD);jX"-5l_c&1j3<TXImdL3\Di2*9,p"a]>l,/T(Z/c#5VQqqBBjMXZ5Y$E=&I301QtHVjJaklC1't!J,T,SHYe4)0-R*"ha@nO$c^A7CKEK\,BYuTX+0mGP6q/`$mu)"aQo:t#9VJst*is@No;nd"U!W+3WX$m2b;?<"B!nbof[XeqnMC8>QQ/h<pfGA&ONNq<B\r6<.`3FU$@h4UNQf1WD(oe0#0fo@6M"u\H4"@_G.ZXTE*=r6kEDCdiqE@h4FtVHo?#g1E\j<:q"DUlB/8tnULSU>f:<#k.$7pb@$5@p`o..>D%J2aMK"UN1SOkT'24l6h$)76r31rRFS`[g++`YLgYlQ02'dti>WapIfce$:QemUI>W>#2kdBQ?,E2-fJAQc]43*5V-%256o:=O>:=)?K_L>dsA4DCjp.L?OD*uIr"s7of==h%u$7n(E/5fC31(PHG]tqb`[OfUT1ciInpJ"lZ)7@s7B9B`,53@5).?PRZT/PX4CYS_cV5p<#g51VqKh!\,/!1,/#c%2pT/9$U?2_+HaHTP`<;sJ+pquO8)nm2Gb=[V"/%B%<g'XPdjG,!5qgQQu&_loRElT1^k`"VL.uh9![QJlWV5T2`8,1/a9M0.Q?`5hL/7C-2C"RB8U1?Q;dDU,fAieQu$E4?\KQ]&<'?'4P%=B.[DZsCIhi(&.S<=3)'D;_0F0oN3L<d=C\mSLYCTcl7psB1n7.*h7;5A$G>AVV"8(\+R5QeHH*CMkYerTRS$;gJKOfb11\HFI4mTB;fYW1c@BU[db.CmJKDc+bGKS`_(IN?)g!FkOE]_9-T`C5fY\lQ%_Q.DV5i/'gVVU:I4PFH-.6jJCd3R2X4hK[&Xb9XnqZ2[0,T5qsCR!&`5'%9nk_o6.E))!@=0Yb6u"eQPfDL99>Fo0B:7*1"*[+P;g'IY548rZ^^9@tc,p=3YlX>i$,AFR.-X/!%Q>Y-.Lo)AsA.9!+O8MF!%-egsUp`u@pB^Acq*^MHaUuhs!co\;hs3Idl1)OT-Os7WM:'sA2'88*"_NG,cO(O<2jh)guL<J6QLKZ5SP4s\FS]mN6(G;gYSk+V.;65nhLlEkgZD;>-WdR0S)CJ:\dTkIjjF3!O;p9%@VqV\R\b$(k?LSpbh==WMnjaCZ9]7.Yqh3"74?@WGPe[/=V^"cs6B`HV3)JK?6P!',(Sg93fr+4Q,)\H2]D+e*2;G.C3$br&cNnh+I[rd6P+/Z%^/q66e:2F`gWl7QH\Z&+!@27q/&k;TRV;PHV8WBm?2k5Obm-=IYRP&mMU4aqaB>3.<?fMKNZ:J\$\pKL!"H4^i]/br`+ok3V+Q"`V0VG-Z>4;t:b`d9KI^29nR:i0')XPH$J2V@=S(`28k=#6!Wf7\L>k;2pP3WE@VlL;aJ.HOX6Lt26kOQ.\E!<\,J4c4NnmsJD:>2%!Y5=::,kHpWD$^=[j$`+,k=h#IR%eo'<@IFM'(/X(+7nF2QIal6+\$ME!tR!+tUu/oWkIt1)LKo+C@:S(XZ9X?b$BI`=\]h/Od5#@ZOm3+*Wehh2r2LM5oI4"NILF9J-^8(t_D*elJkkN+B/S&MZsYKlWP0<^su5R-b\o?FAcM@8W[YA"$cKZ.2DZe,$nDQGK!Mr#A/unZp&Ds#qZ)pZL@07+@KI&-i/j^0=@P5Mo/TUDYV3S^(h)nh0G1ZWh$,8rKMA!F9_e!;q4oc#?l9E(&1Jk35UiO4O>&^)Cqtp+L7&b%E(V&GP'p9p_31A/nPTraE*72GlW?0Y%_,>bgP:-S[N>GHJobG:&QBaGS;<\0=jbq^5g$/ljZ`%_#J[>fHD/Cpk1;j"HN8[]jAS=>`m@:g5+J$VVZ(c8T*Wq8;q%S@F5O=3g3%/*G%)rHP]>hVK@^j2p+tH9HDcf=2@GB1LH1QN[#4h=7`^O=.%ikJQ-;QcWpWV)Rt<])#[AX3[Y[>.Xe6L79nmmJbe'?RmBh\>-0oCnuc%6$/Uc%6s#mj=SZ&6O2RQ#<.-+YGS)GR+#:R(sYZf)2WASr4DVN9V:+E@MWj&?JUEtMG8X@Fli"X%s[hUW&q?p~>endstream
 endobj
 xref
-0 17
+0 18
 0000000000 65535 f 
 0000000061 00000 n 
 0000000102 00000 n 
 0000000209 00000 n 
 0000000321 00000 n 
-0000000516 00000 n 
-0000000680 00000 n 
-0000000861 00000 n 
-0000001042 00000 n 
-0000001258 00000 n 
-0000001421 00000 n 
-0000001594 00000 n 
-0000001839 00000 n 
-0000001909 00000 n 
-0000002236 00000 n 
-0000002303 00000 n 
-0000010216 00000 n 
+0000000492 00000 n 
+0000000661 00000 n 
+0000000834 00000 n 
+0000001015 00000 n 
+0000001216 00000 n 
+0000001418 00000 n 
+0000001621 00000 n 
+0000001804 00000 n 
+0000001992 00000 n 
+0000002257 00000 n 
+0000002327 00000 n 
+0000002646 00000 n 
+0000002707 00000 n 
 trailer
 <<
 /ID 
-[<2add74fdd53399ad03802d3eb70c7a9a><2add74fdd53399ad03802d3eb70c7a9a>]
+[<faf4adde11fee9c9f2bba99056a3c796><faf4adde11fee9c9f2bba99056a3c796>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 13 0 R
-/Root 12 0 R
-/Size 17
+/Info 15 0 R
+/Root 14 0 R
+/Size 18
 >>
 startxref
-17686
+5241
 %%EOF

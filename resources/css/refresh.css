@@ -1,0 +1,14 @@
+/* Shared additions for the September 2026 portfolio refresh. */
+.skip-link{position:fixed;top:8px;left:12px;z-index:100;transform:translateY(-160%);background:#0b1730;color:#fff!important;padding:10px 16px;border-radius:8px}
+.skip-link:focus{transform:translateY(0)}
+.portfolio-site a:focus-visible,.portfolio-site button:focus-visible{outline:3px solid #2563eb;outline-offset:4px}
+[id]{scroll-margin-top:160px}
+.status-note{font-size:.88rem;line-height:1.5;color:var(--muted)}
+.proof-note{margin-top:14px;font-size:.82rem;color:var(--muted)}
+.eyebrow{max-width:100%;letter-spacing:.07em}
+.featured .status-note{color:#b8c9de}
+.system-card .stack-strip{margin:0 0 18px}
+.detail-card{min-width:0}
+.detail-card a{overflow-wrap:anywhere}
+@media(max-width:360px){.metric-grid{grid-template-columns:1fr}.eyebrow{font-size:.68rem}}
+@media print{.skip-link{display:none!important}}
