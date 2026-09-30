@@ -17,3 +17,8 @@
 .hardware-list dd{margin:.3rem 0 0;color:var(--muted)}
 @media(max-width:360px){.eyebrow{font-size:.68rem}}
 @media print{.skip-link{display:none!important}}
+
+/* Keep the latest-work links above the decorative gradient. */
+.pipeline-card::after{pointer-events:none}
+.pipeline-note a{color:#d8f5ff;text-underline-offset:3px}
+.metric b{font-size:clamp(1.05rem,2.3vw,1.55rem)}
