@@ -1,0 +1,8 @@
+# Preserve downloadable documents and media byte-for-byte across platforms.
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
