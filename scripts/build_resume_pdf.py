@@ -8,6 +8,8 @@ Set RESUME_FONT_DIR if its .ttf files are installed elsewhere.
 The HTML .resume-sheet is the content source; review the rendered PDF after edits.
 """
 from pathlib import Path
+from shutil import copyfile
+from urllib.parse import urljoin
 import os
 from xml.sax.saxutils import escape, quoteattr
 
@@ -83,7 +85,8 @@ def inline(node):
     if node.name in {"em", "i"}:
         return f"<i>{content}</i>"
     if node.name == "a":
-        return f'<link href={quoteattr(node["href"])}>{content}</link>'
+        href = urljoin("https://thetopham.github.io/", node["href"])
+        return f'<link href={quoteattr(href)}>{content}</link>'
     return content
 
 
@@ -159,6 +162,8 @@ def build():
         subject="AI systems, full-stack development, and spatial computing",
         pageCompression=1,invariant=1)
     doc.build(blocks(sheet))
+    # Both public download addresses have circulated in portfolios and applications.
+    copyfile(OUTPUT, OUTPUT.with_name("Matthew_Topham_Resume.pdf"))
     print(OUTPUT)
 
 
